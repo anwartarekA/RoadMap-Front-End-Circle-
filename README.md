@@ -41,37 +41,43 @@
 [click-here](https://www.w3schools.com/sass/).
 
 ## (سيتم اعطاؤها خلال الاسبوع من ال head-supervisor)
-### 2- BootStrap
-### <img width=500 height=300 src="four.png">
+### 2- tailwindCss
+### <img width=500 height=300 src="https://picperf.io/https://laravelnews.s3.amazonaws.com/images/tailwindcss-1633184775.jpg">
 ## References:-
-### 1- Arabic:-
-[click-here](https://www.youtube.com/watch?v=9mdGUKFu5OQ&list=PLDoPjvoNmBAyvm7f--dc6XqkpfDcen_vQ).
+### 1- English:-
+[click-here](https://youtu.be/pYaamz6AyvU?si=ZHCXhogNigCh7IbR).
 ### 2- Research:-
-[click-here](https://www.w3schools.com/bootstrap/).
+[click-here](https://tailwindcss.com/).
 ## (سيتم اعطاؤها خلال الاسبوع من ال head-supervisor)
 ### 3- Projects:-
-[Project with Sass-BootStrap](https://www.youtube.com/watch?v=J9lS14nM1xg&list=PLb6bnKCHlCwmlv01_eHzVfQHhThBAXgW5)
-### 4- Git-GitHub:-
-### <img width=500 height=300 src="five.png">
-### References:-
-[Learn](https://www.youtube.com/watch?v=ACOiGZoqC8w&list=PLDoPjvoNmBAw4eOj58MZPakHjaO3frVMF).<hr>
-# Advanced Level:-
-### 1- JavaScript
+[Project with tailwind](https://youtu.be/xpGNcQDmV2A?si=gO8-cMIo4P1OVhgs)
+
+### (1-2-3)- JavaScript
 ### <img width=500 height=300 src="six.png">
 ## References:-
 ### 1- Arabic
 [Learn](https://www.youtube.com/watch?v=GM6dQBmc-Xg&list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv)
 ### 2- Research
 [Search](https://www.w3schools.com/js/).
-## (سيتم اعطاؤها خلال الاسبوع من ال head-supervisor)
-### 3- Problem Solving:-
+
+### 2- Problem Solving:-
 [https://www.codewars.com/]
-### 4- Projects:-
+[https://leetcode.com/]
+# Advanced Level:-
+### 1- Git-GitHub:-
+### <img width=500 height=300 src="five.png">
+### References:-
+[Learn](https://www.youtube.com/watch?v=ACOiGZoqC8w&list=PLDoPjvoNmBAw4eOj58MZPakHjaO3frVMF).<hr>
+## (سيتم اعطاؤها خلال الاسبوع من ال head-supervisor)
+### 2- Problem Solving:-
+[https://www.codewars.com/]
+[https://leetcode.com/]
+### 3- Projects:-
 ###### . Dynamic website with js.
 ###### . Slider
 ###### . TODO
 
-### 5- Study Hard JavaScript:-
+### 4- Study Hard JavaScript:-
 #### What is the event loop 
 #### OOP
 #### Promise Vs Fetch
@@ -80,6 +86,6 @@
 # End Of Circle:-
 
 ## (في هذه المرحلة انت ليك كامل الحريه في اختيار ال frameworkوان شاء الله فريق العمل هيقول وقتها المصادر اللي تقدر تذاكر منها)
-### React
-### Angular
-### Vue
+### 5-React
+### 5-Angular
+### 5-Vue
